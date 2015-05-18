@@ -6,3 +6,5 @@ This repository aims to collect interesting talks related to web development
 
 
 [Memory Management Masterclass with Addy Osmani](https://www.youtube.com/watch?v=LaxbdIyBkL0 "Memory Management Masterclass with Addy Osmani")
+
+[SmashingConf Whistler 2014: Liza Gardner on Soothing Web Weariness](https://vimeo.com/125545019)
